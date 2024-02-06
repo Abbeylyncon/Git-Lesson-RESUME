@@ -1,5 +1,5 @@
 # Git-Lesson-Resume  
-## This is an introductory class into Git and Github, the objective was to push an index.html file from Git to Github  
+This is an introductory class into Git and Github, the objective was to push an index.html file from Git to Github  
 - Download Gitbash https://git-scm.com/downloads
 ## Configure Gitbash  
 - Configure username git config --global user.name "Username"
